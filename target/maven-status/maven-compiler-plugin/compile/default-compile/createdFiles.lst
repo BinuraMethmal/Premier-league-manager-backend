@@ -1,0 +1,16 @@
+com/example/premierLeagueManager/PremierLeagueManagerApplication.class
+com/example/premierLeagueManager/controller/SchoolFootballClubController.class
+com/example/premierLeagueManager/model/Match.class
+com/example/premierLeagueManager/service/FootballClubService.class
+com/example/premierLeagueManager/controller/FootballClubController.class
+com/example/premierLeagueManager/controller/MatchController.class
+com/example/premierLeagueManager/model/Date.class
+com/example/premierLeagueManager/service/UniversityFootballClubService.class
+com/example/premierLeagueManager/model/SchoolFootballClub.class
+com/example/premierLeagueManager/model/UniversityFootballClub.class
+com/example/premierLeagueManager/service/SchoolFootballClubService.class
+com/example/premierLeagueManager/PremierLeagueManagerApplication$1.class
+com/example/premierLeagueManager/model/SportsClub.class
+com/example/premierLeagueManager/model/FootballClub.class
+com/example/premierLeagueManager/controller/UniversityFootballClubController.class
+com/example/premierLeagueManager/service/MatchService.class
